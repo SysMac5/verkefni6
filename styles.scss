@@ -1,0 +1,21 @@
+@import "./styles/grid";
+
+/** Almennar stillingar **/
+@import "./styles/reset";
+@import "./styles/fonts";
+@import "./styles/config";
+@import "./styles/general";
+
+/** Uppsetning **/
+@import "./styles/layout";
+@import "./styles/header";
+@import "./styles/nav";
+@import "./styles/main";
+@import "./styles/footer";
+
+/** Einingar (e. elements) **/
+@import "./styles/button";
+@import "./styles/boxes";
+@import "./styles/open";
+@import "./styles/menu";
+@import "./styles/form";
